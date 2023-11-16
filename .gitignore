@@ -1,0 +1,6 @@
+.gradle
+.idea
+build/
+SpaceTravelDB.mv.db
+SpaceTravelDB.trace.db
+
