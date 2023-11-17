@@ -1,6 +1,6 @@
 package org.goit.service;
 
-import org.goit.CRUD.PlanetCrud;
+import org.goit.crud.PlanetCrud;
 import org.goit.entities.Planet;
 
 public class PlanetCrudService {

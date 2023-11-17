@@ -1,6 +1,6 @@
 package org.goit.service;
 
-import org.goit.CRUD.ClientCrud;
+import org.goit.crud.ClientCrud;
 import org.goit.entities.Client;
 
 public class ClientCrudService {

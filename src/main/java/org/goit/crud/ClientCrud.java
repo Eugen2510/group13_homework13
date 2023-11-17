@@ -1,4 +1,4 @@
-package org.goit.CRUD;
+package org.goit.crud;
 
 import org.goit.entities.Client;
 import org.goit.hibernate.HibernateUtil;
